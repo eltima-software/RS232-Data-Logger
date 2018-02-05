@@ -26,3 +26,5 @@ RS232 Data Logger is a handy tool for testing serial port communication. As all 
 * Windows NT 4.x
 * Windows Me
 * Windows 98
+
+Note, that this is an open source software and you can only use it for non proprietary purposes. If you want to distribute it as a part of your own non-Open Source software product, it's required to obtain appropriate license from Eltima Software (sales@eltima.com)
