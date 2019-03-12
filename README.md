@@ -6,7 +6,7 @@ RS232 Data Logger is quite easy to use. It is a one-window application where you
 
 ## Log serial port communication, view and analyze logged data
 
-With free serial port monitor you can connect to real or virtual serial port and monitor the transmitted data. Specify the text document to save all intercepted data to for your analysis. RS232 Logger will display how many bytes are stored in the log file and all data logged from the serial port in a comprehensive way.
+With [free serial port monitor](https://www.com-port-monitoring.com/) you can connect to real or virtual serial port and monitor the transmitted data. Specify the text document to save all intercepted data to for your analysis. RS232 Logger will display how many bytes are stored in the log file and all data logged from the serial port in a comprehensive way.
 
 ## Test serial communication
 
